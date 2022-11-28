@@ -178,6 +178,7 @@ main .attractions .grid-container .grid-items .item .item-image {
 }
 main .attractions .grid-container .grid-items .item .item-image img {
   width: 100%;
+  border-radius: 4%;
 }
 main .attractions .grid-container .grid-items .item .item-image img.like {
   padding: 10px;
